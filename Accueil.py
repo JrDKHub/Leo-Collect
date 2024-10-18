@@ -80,7 +80,6 @@ def draw_agtab(nom_activite_peri):
 
 def show_tabs():
     
-    # identite, h_r_enfance, h_r_ado, intervenant, sorties, manuel, masquer = st.tabs([" ","2 Heures Réalisées Enfance","3 Heures Réalisées Ado","4 Intervenant","5 Sorties","Guide","Masquer"])
     st.header("1- Activités du dispositif")
     with st.expander("Chochez vos activités") :
         
