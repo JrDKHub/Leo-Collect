@@ -3,7 +3,6 @@ import pandas as pd
 import requests as rs
 from st_aggrid  import GridOptionsBuilder, AgGrid
 import datetime
-# st._main._html()
 
 
 st.set_page_config(
